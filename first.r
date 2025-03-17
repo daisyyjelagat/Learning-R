@@ -27,9 +27,16 @@ greeting <- "Hi"
 
 #print (paste(greeting, name))
 
-cat("  My greeting is:",greeting)
+print(cat("  My greeting is:",greeting))
 #different ways of printing
 #print
 #cat
 #paste
 #name of variable
+
+#adding numbers
+num1 <- 10
+num2 <- 35
+
+sum <- num1+num2
+print(sum)
