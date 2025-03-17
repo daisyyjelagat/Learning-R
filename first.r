@@ -27,7 +27,7 @@ greeting <- "Hi"
 
 #print (paste(greeting, name))
 
-print(cat("  My greeting is:",greeting))
+#cat("  My greeting is:",greeting)  - error
 #different ways of printing
 #print
 #cat
